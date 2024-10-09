@@ -1,5 +1,7 @@
 # Hackintosh, Erying G660 ITX, Intel i7 12700H, AMD Radeon RX 6600
 
+![Overview](https://github.com/user-attachments/assets/6a4215fa-4c46-4de4-9b68-dde06c8991ec)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0.1)
